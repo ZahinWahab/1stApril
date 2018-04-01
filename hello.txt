@@ -4,3 +4,8 @@ printf("Hello World");
 }
 
 working from feature1
+
+
+now hello from feature2
+
+i m saying hello from feature2 yay :3 
